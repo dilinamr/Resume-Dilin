@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Resume-Dilin/static/css/main.bf538fe7.css",
+    "main.js": "/Resume-Dilin/static/js/main.13918cff.js",
+    "static/media/Dilin.jpg": "/Resume-Dilin/static/media/Dilin.215e63c19273d97cd7db.jpg",
+    "index.html": "/Resume-Dilin/index.html",
+    "main.bf538fe7.css.map": "/Resume-Dilin/static/css/main.bf538fe7.css.map",
+    "main.13918cff.js.map": "/Resume-Dilin/static/js/main.13918cff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.13918cff.js"
+  ]
+}
